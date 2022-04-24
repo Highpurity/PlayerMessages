@@ -1,0 +1,7 @@
+name: Playermessages
+version: '${project.version}'
+main: development.highpurity.plugin1.Plugin1
+api-version: 1.13
+authors: [ Highpurity ]
+description: Plugin that customizes join and leave events for all Minecraft versions.
+website: https://Youtube.com/c/highpurity
